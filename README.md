@@ -1,0 +1,2 @@
+# MHNNDZ002_MHLMAH032_EEE3096S
+Embedded System || (EEE3096S) Practicals
